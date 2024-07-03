@@ -1,29 +1,29 @@
 ***Project 1: Data Handling and Analysis (Data Handling, Data Manipulation, Outliers Identification, RMSE, Standardization, Normalization)
-Description:
+  *Description:
 In this project, I worked with landslide-related data from sensors to perform various data analysis and cleaning tasks. The main focus was on handling missing values, performing correlation analysis, identifying outliers, and implementing standardization and normalization techniques.
 
-Learnings:
+  *Learnings:
 
-Data Handling and Cleaning: Managed and cleaned the dataset by addressing missing values through linear interpolation and other techniques.
-Data Manipulation: Manipulated the data using Pandas to prepare it for analysis.
-Correlation Analysis: Computed Pearson correlation to identify relationships between different sensor attributes.
-Outliers Identification: Identified outliers using the quartile range method.
-RMSE Calculation: Calculated the Root Mean Squared Error (RMSE) between the original and filled missing values to measure the accuracy of the imputed data.
-Standardization and Normalization: Applied standardization and normalization techniques to prepare the data for machine learning models.
+    -Data Handling and Cleaning: Managed and cleaned the dataset by addressing missing values through linear interpolation and other techniques.
+    -Data Manipulation: Manipulated the data using Pandas to prepare it for analysis.
+    -Correlation Analysis: Computed Pearson correlation to identify relationships between different sensor attributes.
+    -Outliers Identification: Identified outliers using the quartile range method.
+    -RMSE Calculation: Calculated the Root Mean Squared Error (RMSE) between the original and filled missing values to measure the accuracy of the imputed data.
+    -Standardization and Normalization: Applied standardization and normalization techniques to prepare the data for machine learning models.
 
 
 ***Project 2: Iris Data Analysis and Classification (PCA, Outliers Correction, Data Reconstruction, KNN Classification)
-Description:
-In this project, I worked with the Iris dataset, performing tasks that include outlier correction, dimensionality reduction using Principal Component Analysis (PCA), data reconstruction, and building a K-Nearest Neighbour (KNN) classifier.
+  *Description:
+   In this project, I worked with the Iris dataset, performing tasks that include outlier correction, dimensionality reduction using Principal Component Analysis (PCA), data reconstruction, and building a K-Nearest Neighbour (KNN) classifier.
 
-Learnings:
+  *Learnings:
 
-Data Handling and Extraction: Extracted attributes into a matrix and the target attribute into an array for analysis.
-Outliers Correction: Identified and replaced outliers in the dataset with the median values of respective attributes.
-Principal Component Analysis (PCA): Implemented PCA to reduce the dimensionality of the dataset, facilitating easier visualization and analysis.
-Data Visualization: Created scatter plots of the dimension-reduced data, superimposing eigen directions for better understanding.
-Data Reconstruction: Reconstructed the original data from the dimension-reduced dataset, and computed the RMSE to assess the reconstruction accuracy.
-KNN Classification: Built a KNN classifier from scratch, evaluated its performance using a confusion matrix, and visualized the results for interpretability.
+    -Data Handling and Extraction: Extracted attributes into a matrix and the target attribute into an array for analysis.
+    -Outliers Correction: Identified and replaced outliers in the dataset with the median values of respective attributes.
+    -Principal Component Analysis (PCA): Implemented PCA to reduce the dimensionality of the dataset, facilitating easier visualization and analysis.
+    -Data Visualization: Created scatter plots of the dimension-reduced data, superimposing eigen directions for better understanding.
+    -Data Reconstruction: Reconstructed the original data from the dimension-reduced dataset, and computed the RMSE to assess the reconstruction accuracy.
+    -KNN Classification: Built a KNN classifier from scratch, evaluated its performance using a confusion matrix, and visualized the results for interpretability.
 
 
 ***Project 3: Iris Data Classification Using Bayesian Methods (PCA, Univariate and Multivariate Gaussian Distributions)
