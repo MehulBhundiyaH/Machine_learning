@@ -12,7 +12,7 @@ In this project, I worked with landslide-related data from sensors to perform va
     -Standardization and Normalization: Applied standardization and normalization techniques to prepare the data for machine learning models.
 
 
-***Project 2: Iris Data Analysis and Classification (PCA, Outliers Correction, Data Reconstruction, KNN Classification)
+***Project 2:*** Iris Data Analysis and Classification (PCA, Outliers Correction, Data Reconstruction, KNN Classification)
   *Description:
    In this project, I worked with the Iris dataset, performing tasks that include outlier correction, dimensionality reduction using Principal Component Analysis (PCA), data reconstruction, and building a K-Nearest Neighbour (KNN) classifier.
 
