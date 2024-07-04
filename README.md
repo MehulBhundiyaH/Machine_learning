@@ -116,3 +116,24 @@ Saved the trained model.
 Plotted epoch-wise training and validation accuracies to track model performance.
 Loaded the saved model and used it to predict class probabilities for test images.
 Computed and displayed the confusion matrix and test accuracy.
+
+*****************************************************SUMMARY*****************************************************
+
+For computer vision tasks, Convolutional Neural Networks (CNNs) are generally better suited than Fully Connected Neural Networks (FCNNs). Here are some reasons why:
+
+Spatial Hierarchies:
+
+CNNs: Exploit spatial hierarchies in images through convolutional layers, capturing local features like edges, textures, and shapes before combining them into more abstract representations.
+FCNNs: Treat every pixel as independent, losing the spatial structure inherent in images.
+Parameter Efficiency:
+
+CNNs: Use parameter sharing and local connections, making them more efficient with fewer parameters, reducing the risk of overfitting.
+FCNNs: Require a large number of parameters, especially for high-resolution images, leading to higher computational cost and overfitting.
+Performance:
+
+CNNs: Achieve higher accuracy in tasks like image classification, object detection, and segmentation due to their ability to learn complex patterns and hierarchies in visual data.
+FCNNs: Typically perform worse on image data since they are less capable of capturing spatial dependencies.
+Feature Extraction:
+
+CNNs: Automatically learn and extract relevant features from images through layers of convolution and pooling.
+FCNNs: Require manual feature extraction or preprocessing, making them less effective for raw image data.
