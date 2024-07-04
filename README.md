@@ -1,4 +1,4 @@
-***Project 1: Data Handling and Analysis (Data Handling, Data Manipulation, Outliers Identification, RMSE, Standardization, Normalization)
+******************Project 1:****************** Data Handling and Analysis (Data Handling, Data Manipulation, Outliers Identification, RMSE, Standardization, Normalization)
   *Description:
 In this project, I worked with landslide-related data from sensors to perform various data analysis and cleaning tasks. The main focus was on handling missing values, performing correlation analysis, identifying outliers, and implementing standardization and normalization techniques.
 
