@@ -26,7 +26,7 @@ In this project, I worked with landslide-related data from sensors to perform va
     -KNN Classification: Built a KNN classifier from scratch, evaluated its performance using a confusion matrix, and visualized the results for interpretability.
 
 
-***Project 3: Iris Data Classification Using Bayesian Methods (PCA, Univariate and Multivariate Gaussian Distributions)
+***Project 3:*** Iris Data Classification Using Bayesian Methods (PCA, Univariate and Multivariate Gaussian Distributions)
   *Description:
    In this project, I applied Bayesian classification techniques to the Iris dataset, using both univariate and multivariate Gaussian distributions. The tasks involved dimension reduction, model building, and performance evaluation on both reduced and original datasets.
 
@@ -50,7 +50,7 @@ In this project, I worked with landslide-related data from sensors to perform va
   classification performance.
 
 
-***Project 4: Linear and Polynomial Regression on Abalone Dataset
+***Project 4:*** Linear and Polynomial Regression on Abalone Dataset
   *Description:
    This project involved predicting the age of Abalones using various measurements by building linear and polynomial regression models. The task aimed to simplify the age prediction process for these marine 
    snails.
@@ -76,7 +76,7 @@ In this project, I worked with landslide-related data from sensors to perform va
   Visualized the best-fit curve on the training data, identifying the optimal polynomial degree based on the minimum test RMSE.
 
 
-***Project 5: Image Classification using FCNN and CNN on CIFAR-3 Class Dataset
+***Project 5:*** Image Classification using FCNN and CNN on CIFAR-3 Class Dataset
   *Description:
    This project focused on classifying images of aeroplanes, cars, and birds using Fully Connected Neural Networks (FCNN) and Convolutional Neural Networks (CNN). The dataset included RGB images of these three 
    classes, and the task involved implementing both FCNN and CNN models using Keras.
